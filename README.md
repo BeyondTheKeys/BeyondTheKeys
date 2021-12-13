@@ -1,4 +1,4 @@
-# <img src="https://avatars.githubusercontent.com/u/93868542?v=4" alt="logo" width="50" height="50"/> BeyondTheKeys
+# <img src="https://avatars.githubusercontent.com/u/93868542?v=4" alt="logo" width="30" height="30"/> BeyondTheKeys
 - 👋 Hi, I’m @BeyondTheKeys
 - 👀 I’m interested in Roblox Development, Web Hosting, Flutter, and more!
 - 🌱 I’m currently learning Graphic Design
