@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Graphic Design
 - 📫 How to reach me ...
 
-[![Github Rating](https://github-readme-stats.vercel.app/api?username=BeyondTheKeys&bg_color=30,020024,00d4ff&title_color=fff&text_color=fff)](https://github.com/BeyondTheKeys)
+[![Github Rating](https://github-readme-stats.vercel.app/api?username=BeyondTheKeys&bg_color=30,020024,00a4ff&title_color=fff&text_color=fff)](https://github.com/BeyondTheKeys)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTheKeys&layout=compact&bg_color=30,020024,00d4ff&title_color=fff&text_color=fff)](https://github.com/BeyondTheKeys)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTheKeys&layout=compact&bg_color=30,020024,00a4ff&title_color=fff&text_color=fff)](https://github.com/BeyondTheKeys)
 # Watch this snake eat my contributions!
 ![snake gif](https://github.com/BeyondTheKeys/BeyondTheKeys/blob/output/github-contribution-grid-snake.gif)
