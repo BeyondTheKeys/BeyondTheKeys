@@ -6,4 +6,4 @@
 
 [![Github Rating](https://github-readme-stats.vercel.app/api?username=BeyondTheKeys&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 # Watch this snake eat my contributions!
-![snake gif](https://github.com/BeyondTheKeys/BeyondTheKeys/blob/output/github-contribution-grid-snake.gif =50x50)
+![snake gif](https://github.com/BeyondTheKeys/BeyondTheKeys/blob/output/github-contribution-grid-snake.gif)
