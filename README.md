@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Graphic Design
 - 📫 How to reach me ...
 
-[![Github Rating](https://github-readme-stats.vercel.app/api?username=BeyondTheKeys)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Rating](https://github-readme-stats.vercel.app/api?username=BeyondTheKeys&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 # Watch this snake eat my contributions!
 ![snake gif](https://github.com/BeyondTheKeys/BeyondTheKeys/blob/output/github-contribution-grid-snake.gif)
