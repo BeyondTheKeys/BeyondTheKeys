@@ -16,5 +16,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTheKeys&layout=compact&bg_color=30,020024,00a4ff&title_color=fff&text_color=fff)](https://github.com/BeyondTheKeys)
-# Watch this snake eat my contributions!
-![snake gif](https://github.com/BeyondTheKeys/BeyondTheKeys/blob/output/github-contribution-grid-snake.gif)
+# More Stats
+<!--![snake gif](https://github.com/BeyondTheKeys/BeyondTheKeys/blob/output/github-contribution-grid-snake.gif)-->
+![Stats](https://github.com/BeyondTheKeys/BeyondTheKeys/blob/251f1b5075667c5243849c1f53b15f9cfc33ff9a/github-metrics.svg)
