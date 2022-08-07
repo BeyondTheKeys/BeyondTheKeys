@@ -16,6 +16,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTheKeys&layout=compact&bg_color=30,020024,00a4ff&title_color=fff&text_color=fff)](https://github.com/BeyondTheKeys)
+
 # More Stats
 <!--![snake gif](https://github.com/BeyondTheKeys/BeyondTheKeys/blob/output/github-contribution-grid-snake.gif)-->
 ![Stats](https://raw.githubusercontent.com/BeyondTheKeys/BeyondTheKeys/11fe6b82e50dcbf91ad9fdceb25cbc8217e481c0/github-metrics.svg)
+[![Metrics](https://github.com/BeyondTheKeys/BeyondTheKeys/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/BeyondTheKeys/BeyondTheKeys/actions/workflows/main.yml)
