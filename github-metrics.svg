@@ -2383,7 +2383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AstraX2/AstraTween</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AstraTween is a basic client tweening module for Roblox to improve visual quality and smoothness.</div>
@@ -2751,7 +2751,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1059.4766666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1059.5800000000002 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2773,10 +2773,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">11253</div>
+                                        <div class="value">11254</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 11253 times</div>
+                                <div class="text">Repositories have been deployed 11254 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2960,7 +2960,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2023, 12:12:48 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2023, 13:17:36 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
